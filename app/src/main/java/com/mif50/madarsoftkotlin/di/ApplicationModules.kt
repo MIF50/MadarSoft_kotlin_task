@@ -19,6 +19,12 @@ import io.reactivex.disposables.CompositeDisposable
 import org.koin.androidx.viewmodel.ext.koin.viewModel
 import org.koin.dsl.module.module
 
+
+/**
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
+ **/
 object ApplicationModules {
     val modules = listOf(
         module {

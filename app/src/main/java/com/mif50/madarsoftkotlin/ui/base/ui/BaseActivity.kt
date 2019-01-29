@@ -8,8 +8,9 @@ import com.mif50.madarsoftkotlin.app.extensions.getLayoutRes
 import com.mif50.madarsoftkotlin.ui.base.mvvm.MvvmNavigator
 
 /**
- * @name time-viewer
- * Copyrights (c) 10/5/18 Created By BeinMedia
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
  **/
 abstract class BaseActivity : AppCompatActivity(), MvvmNavigator {
 

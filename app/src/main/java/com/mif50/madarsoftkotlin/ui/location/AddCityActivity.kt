@@ -22,6 +22,12 @@ import kotlinx.android.synthetic.main.activity_add_city.*
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 
+
+/**
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
+ **/
 @LayoutRes(R.layout.activity_add_city)
 class AddCityActivity : BaseActivity(), OnMapReadyCallback, GoogleMap.OnMapClickListener, AddCityNavigator {
     private val TAG = AddCityActivity::class.java.simpleName

@@ -3,8 +3,9 @@ package com.mif50.madarsoftkotlin.app.helper.rx
 import io.reactivex.*
 
 /**
- * @name Time viewer
- * Copyrights (c) 10/1/18 Created By BeinMedia
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
  **/
 interface SchedulerProvider {
     fun ui(): Scheduler

@@ -5,8 +5,9 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 
 /**
- *  @name Time viewer
- * Copyrights (c) 10/1/18 Created By BeinMedia
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
  **/
 class AppSchedulerProvider : SchedulerProvider {
 

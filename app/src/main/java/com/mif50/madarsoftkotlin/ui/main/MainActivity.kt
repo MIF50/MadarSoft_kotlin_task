@@ -18,6 +18,12 @@ import com.mikepenz.fastadapter.listeners.OnClickListener
 import kotlinx.android.synthetic.main.activity_main.*
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
+
+/**
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
+ **/
 @LayoutRes(R.layout.activity_main)
 class MainActivity : BaseActivity(), View.OnClickListener, MainNavigator, OnClickListener<IItem<*, *>> {
 

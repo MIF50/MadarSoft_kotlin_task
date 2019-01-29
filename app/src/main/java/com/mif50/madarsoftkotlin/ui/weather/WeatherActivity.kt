@@ -23,6 +23,12 @@ import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
+
+/**
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
+ **/
 @LayoutRes(R.layout.activity_weather)
 class WeatherActivity : BaseActivity(), WeatherNavigator {
 

@@ -7,6 +7,12 @@ import com.mif50.madarsoftkotlin.data.remote.api.model.ListData
 import com.mikepenz.fastadapter.items.AbstractItem
 import kotlinx.android.synthetic.main.item_weather.view.*
 
+
+/**
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
+ **/
 class ItemWeather : AbstractItem<ItemWeather, ItemWeather.ItemWeatherViewHolder>() {
     lateinit var data: ListData
     fun withItem(data: ListData): ItemWeather {

@@ -1,8 +1,9 @@
 package com.mif50.madarsoftkotlin.app.helper.ui
 
 /**
- * @name Time viewer
- * Copyrights (c) 9/28/18 Created By BeinMedia
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
  **/
 @Retention(AnnotationRetention.RUNTIME)
 @Target(AnnotationTarget.CLASS, AnnotationTarget.FILE)

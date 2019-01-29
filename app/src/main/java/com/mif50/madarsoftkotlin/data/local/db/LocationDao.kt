@@ -4,6 +4,12 @@ import androidx.room.*
 import com.mif50.madarsoftkotlin.data.local.db.location.LocationAddress
 import io.reactivex.Flowable
 
+
+/**
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
+ **/
 @Dao
 interface LocationDao {
 

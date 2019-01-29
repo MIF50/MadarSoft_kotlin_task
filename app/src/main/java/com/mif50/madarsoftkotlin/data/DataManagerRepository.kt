@@ -9,6 +9,12 @@ import com.mif50.madarsoftkotlin.data.remote.api.model.RequestPlace
 import io.reactivex.Flowable
 import io.reactivex.Single
 
+
+/**
+ *  @name Mohamed ibrahim
+ *  @email mohamedibrahim1223@gmail.com
+ * Copyrights (c) 1/27/19 Created By MIF50
+ **/
 class DataManagerRepository(var apiManager: ApiManager, var dbManager: DbManager) : DataManager {
 
     init {
