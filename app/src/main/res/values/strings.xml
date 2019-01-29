@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MadarSoftKotlin</string>
+    <string name="current_location">CurrentLocation</string>
+    <string name="text_no_network_found_">No Internet connection</string>
+    <string name="api_connection_error">error connection in api</string>
+    <string name="error_internal_server_error">Internal Server error</string>
+    <string name="lat">Lat : %s</string>
+    <string name="lng">Lng : %s</string>
+    <string name="no_locations">There is not location save please open map and select location of city that you want to get weather to it and back to this screen and click in item location to open screen of get weather datat to open map click on add btn</string>
+</resources>
